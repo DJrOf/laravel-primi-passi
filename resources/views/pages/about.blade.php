@@ -91,7 +91,7 @@ $author= 'Daniel';
     
 
         <div class="flex-center position-ref full-height">
-           <h1>I enjoy coding and play the piano.</h1> <br>
+           <h1>I enjoy coding, gaming and play the piano.</h1> <br>
            
         </div>
     </body>

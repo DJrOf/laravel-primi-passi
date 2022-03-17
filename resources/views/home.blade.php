@@ -86,7 +86,7 @@ $author= 'Daniel';
     </head>
     <body>
             <header> 
-                <a href="http://127.0.0.1:8000/about">About me</a>
+                <a href="http://127.0.0.1:8002/about">About me</a>
                 
             </header>
     

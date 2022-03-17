@@ -86,12 +86,12 @@ $author= 'Daniel';
     </head>
     <body>
             <header> 
-            <a href="http://127.0.0.1:8000/inotherwords">In other words...</a>
+            <a href="http://127.0.0.1:8002/inotherwords">In other words...</a>
             </header>
     
 
         <div class="flex-center position-ref full-height">
-           <h1>I enjoy coding, gaming and play the piano.</h1> <br>
+           <h1>I enjoy coding, gaming and playing the piano.</h1> <br>
            
         </div>
     </body>
